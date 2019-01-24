@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=col\ x\ y\ w\ h
+comment0.target=Obstacle(java.awt.Color,\ double,\ double,\ double,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Obstacle\n\ @param\ col\ Color\ of\ Obstacle\n\ @param\ x\ indicates\ x\ coordinate\ of\ upper-left\ corner\ of\ Obstacle\n\ @param\ y\ indicates\ y\ coordinate\ of\ upper-left\ corner\ of\ Obstacle\n\ @param\ w\ indicates\ width\ of\ Obstacle\n\ @param\ h\ indicates\ height\ of\ Obstacle\n
+comment1.params=x\ y
+comment1.target=boolean\ containsPoint(double,\ double)
+comment1.text=\n\ @param\ x\ indicates\ x\ coordinate\ of\ point\n\ @param\ y\ indicates\ y\ coordinate\ of\ point\n\ @return\ true\ if\ point\ denotated\ by\ (x,\ y)\ is\ contained\ within\ the\ bounds\ of\n\ the\ obstacle;\ false\ otherwise\n
+comment2.params=ball
+comment2.target=boolean\ overlapsWith(Ball)
+comment2.text=\n\ @param\ ball\ the\ Ball\ whose\ location\ is\ being\ examined\n\ @return\ true\ if\ one\ or\ more\ of\ ball's\ corner\ points\ are\ located\ within\n\ the\ bounds\ of\ the\ obstacle\ object\n
+comment3.params=ball
+comment3.target=boolean\ handleCollision(Ball)
+comment3.text=\n\ handles\ the\ collision\ of\ a\ Ball\ on\ an\ Obstacle\ by\ bouncing\ the\ Ball\ off\n\ @param\ ball\ the\ Ball\ object\ colliding\ with\ the\ Obstacle\ object\n\ @return\ false\n
+numComments=4

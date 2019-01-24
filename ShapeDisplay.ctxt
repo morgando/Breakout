@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShapeDisplay()
+comment1.params=title
+comment1.target=void\ setTitle(java.lang.String)
+comment2.params=color
+comment2.target=void\ setBackgroundColor(java.awt.Color)
+comment3.params=shape
+comment3.target=void\ add(java.awt.Shape)
+comment4.params=
+comment4.target=java.util.Iterator\ shapes()
+comment5.params=listener
+comment5.target=void\ addKeyListener(java.awt.event.KeyListener)
+comment6.params=g
+comment6.target=void\ paintComponent(java.awt.Graphics)
+comment7.params=x
+comment7.target=double\ convertX(double)
+comment8.params=y
+comment8.target=double\ convertY(double)
+numComments=9

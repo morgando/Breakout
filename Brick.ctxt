@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=col\ x\ y
+comment0.target=Brick(java.awt.Color,\ int,\ int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Brick\n\ @param\ col\ the\ Color\ of\ the\ Brick\ object\n\ @param\ x\ the\ Brick's\ x-coordinate\n\ @param\ y\ the\ Brick's\ y-coordinate\n
+comment1.params=ball
+comment1.target=boolean\ handleCollision(Ball)
+comment1.text=\n\ Deals\ with\ collisions\ the\ same\ way\ as\ other\ obstacles\ but\ reduces\ Paddle\n\ size\ and\ causes\ Brick\ object\ to\ disappear.\n\ @param\ ball\ the\ Ball\ object\ whose\ collision\ is\ being\ handled\n\ @return\ true\n
+numComments=2

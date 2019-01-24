@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Paddle(double,\ double)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Paddle\n\ @param\ x\ the\ x\ coordinate\ of\ the\ Paddle\ object\n\ @param\ y\ the\ y\ coordinate\ of\ the\ Paddle\ object\n
+comment1.params=ball
+comment1.target=boolean\ handleCollision(Ball)
+comment1.text=\n\ Handles\ collisions\ so\ that\ a\ ball\ will\ bounce\ off\ of\ a\ Paddle\n\ object\ as\ if\ the\ Paddle\ object\ is\ rounded.\n\ @param\ ball\ the\ ball\ colliding\ with\ paddle\n\ @return\ false\n
+comment2.params=incrementation
+comment2.target=void\ changeSize(int)
+comment2.text=\n\ @param\ incrementation\ the\ amount\ paddle\ width\ is\ being\ changed\ by\n
+numComments=3

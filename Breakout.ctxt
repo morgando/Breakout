@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Breakout()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Breakout\n
+comment1.params=
+comment1.target=void\ checkForCollisions()
+comment1.text=\n\ Checks\ for\ and\ handles\ collisions\n
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.text=\n\ @param\ e\ the\ KeyEvent\n
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\n\ plays\ the\ game\n
+comment4.params=e
+comment4.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment4.text=\n\ @param\ e\ the\ KeyEvent\n
+comment5.params=
+comment5.target=void\ movePaddle()
+comment5.text=\n\ @postcondition\ paddle\ has\ moved\ in\ response\ to\ KeyEvent\n
+numComments=6
